@@ -1,6 +1,6 @@
 # Sudoku-Generator
 
-# Description
+*** Description ***
 
 Project for Programming Languages Class.
 It generates a functional Sudoku Game with 9x9 table.
